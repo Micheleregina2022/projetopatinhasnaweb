@@ -20,7 +20,7 @@ Acesse aqui:  https://forms.gle/zL2vwQ79VLe1rB3J9
 
 2.1 Utilizar a API do Google Forms para coletar as respostas do formulário usando Python. Será usada a biblioteca google-api-python-client para interagir com a API.
 
-<br.
+<br>
 3 - Tratamento de dados:
 
 Importar as bibliotecas necessárias, como Pandas, para trabalhar com os dados coletados.

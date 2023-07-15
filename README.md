@@ -11,7 +11,7 @@ Desenvolvimento de soluções estratégicas.
 
 2 - Coleta de dados do formulário do Google:
 Criação de um formulário no Google Forms com as perguntas relevantes para o projeto, divulgado em redes sociais. 
-Tempo estimado da coleta de respostas: um mês (15/06/2023 - 13/07/2023)
+Tempo estimado da coleta de respostas: um mês (15/06/2023 - 21/07/2023)
 
 Acesse aqui:  https://forms.gle/zL2vwQ79VLe1rB3J9                     
 <br>
